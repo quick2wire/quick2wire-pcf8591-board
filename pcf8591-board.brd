@@ -134,7 +134,7 @@
 <text x="43.815" y="22.225" size="1.016" layer="25" font="vector" align="center-left">AOUT</text>
 <text x="43.815" y="24.765" size="1.016" layer="25" font="vector" align="center-left">VREF</text>
 <text x="43.815" y="27.305" size="1.016" layer="25" font="vector" align="center-left">GND</text>
-<text x="22.225" y="3.175" size="1.016" layer="21" font="vector">Analogue Board V0.6</text>
+<text x="22.225" y="3.175" size="1.016" layer="21" font="vector">Analogue Board V0.7</text>
 <text x="18.415" y="1.27" size="1.016" layer="21" font="vector">Copyright (c) 2012 Quick2Wire</text>
 <hole x="2.54" y="37.465" drill="3.2"/>
 <hole x="45.72" y="37.465" drill="3.2"/>
@@ -2907,8 +2907,6 @@ design rules under a new name.</description>
 </signal>
 <signal name="N$2">
 <contactref element="IC2" pad="2"/>
-<wire x1="25.4" y1="17.78" x2="29.21" y2="21.59" width="0.3048" layer="16"/>
-<wire x1="25.4" y1="12.7" x2="25.4" y2="17.78" width="0.3048" layer="16"/>
 <contactref element="JP4" pad="2"/>
 <wire x1="40.64" y1="12.7" x2="41.91" y2="12.7" width="0.3048" layer="16"/>
 <wire x1="38.1" y1="15.24" x2="40.64" y2="12.7" width="0.3048" layer="16"/>
@@ -2932,7 +2930,6 @@ design rules under a new name.</description>
 </signal>
 <signal name="N$4">
 <contactref element="IC2" pad="4"/>
-<wire x1="30.48" y1="17.78" x2="29.21" y2="16.51" width="0.3048" layer="16"/>
 <contactref element="JP4" pad="4"/>
 <wire x1="30.48" y1="16.51" x2="29.21" y2="16.51" width="0.3048" layer="16"/>
 <wire x1="34.29" y1="12.7" x2="30.48" y2="16.51" width="0.3048" layer="16"/>

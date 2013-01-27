@@ -7010,11 +7010,12 @@ http://www-eu2.semiconductors.com&lt;p&gt;
 <approved hash="104,1,182.88,96.52,IC2,AGND,N$5,,,"/>
 <approved hash="104,1,182.88,91.44,IC2,VSS,GND,,,"/>
 <approved hash="104,1,182.88,127,IC2,VDD,VCC,,,"/>
-<approved hash="115,1,215.942,104.335,J3,,,,,"/>
 <approved hash="115,1,99.06,109.343,SW1,,,,,"/>
 <approved hash="115,1,131.976,90.066,FRAME1,,,,,"/>
 <approved hash="115,1,177.563,73.7912,JP1,,,,,"/>
 <approved hash="115,1,205.977,119.511,JP3,,,,,"/>
+<approved hash="115,1,205.977,141.101,JP2,,,,,"/>
+<approved hash="115,1,223.757,101.469,JP4,,,,,"/>
 </errors>
 </schematic>
 </drawing>
